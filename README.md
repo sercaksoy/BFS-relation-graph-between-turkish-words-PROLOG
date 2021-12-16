@@ -1,4 +1,4 @@
-# BFS-relation-graph-between-turkish-words--PROLOG
+# BFS-relation-graph-between-turkish-words-PROLOG
 fiiller.pl and isimler.pl files are database which created by students for this lecture.
 
 ### How to run
